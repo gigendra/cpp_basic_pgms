@@ -1,4 +1,3 @@
-//multilevel inheritance
 //concept of friend functions
 
 #include<iostream>
