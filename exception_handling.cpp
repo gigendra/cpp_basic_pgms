@@ -1,4 +1,3 @@
-//multilevel inheritance
 //exception handling
 
 #include <iostream>
